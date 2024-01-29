@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "1090781289048-6pcut76ugpjr6qe23pbms5rmqhq0h9df.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUXYsks6xXtwjImr1EWNYsO8rT-JQ-Gdc"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:1090781289048:ios:59fd4fc5218050d57e082d", 
+        "android_client_info": {
+          "package_name": "com.Petminder.Petminder"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "petminder-98607.appspot.com", 
+    "project_id": "petminder-98607", 
+    "firebase_url": "https://petminder-98607.firebaseio.com", 
+    "project_number": "1090781289048"
+  }
+}
